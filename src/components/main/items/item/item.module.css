@@ -1,0 +1,40 @@
+.item{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #cccccc;
+    margin-top: 20px;
+}
+.item__info{
+    display: flex;
+    align-items: center;
+}
+.item__inner{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.item__btns{
+    display: flex;
+    justify-content: space-between;
+}
+.item__btn{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+.item__btn_red{
+    background-color: rgb(220, 53, 69);
+}
+.icon{
+    color: white;
+    font-size: 20px;
+}

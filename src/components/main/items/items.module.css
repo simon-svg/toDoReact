@@ -1,0 +1,8 @@
+.items{
+    width: 100%;
+}
+.items__cont{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}

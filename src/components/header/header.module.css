@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: #031B4E;
+    display: flex;
+    align-items: center;
+}
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+.header__cont{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

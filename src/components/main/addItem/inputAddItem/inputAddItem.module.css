@@ -1,0 +1,9 @@
+.input__container{
+    width: calc(100% - 200px);
+}
+.input{
+    width: 100%;
+    color: #444444;
+    font-size: 20px;
+    padding: 5px 10px;
+}

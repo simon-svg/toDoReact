@@ -1,0 +1,8 @@
+.addItem{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.addItem{
+    padding: 30px 0;
+}
